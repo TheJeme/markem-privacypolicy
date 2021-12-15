@@ -1,4 +1,4 @@
-# mark-privacypolicy
+# markem-privacypolicy
 
 Markem is an app to test your mind with games and tests.
 
